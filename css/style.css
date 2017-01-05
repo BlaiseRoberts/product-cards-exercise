@@ -1,0 +1,31 @@
+article {
+	width: 30%;
+	border: 1px solid lightblue;
+	display: inline-block;
+}
+
+h2 {
+	border: 1px dotted lightgrey;
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+	margin: .25em;
+	font-size: 12px;
+}
+
+h4 {
+	margin: 0;
+	background-color: darkgrey;
+	color: yellow;
+}
+
+img {
+	width: 80%;
+	margin: .5em 1em;
+}
+
+footer {
+	font-size: 10px;
+}
